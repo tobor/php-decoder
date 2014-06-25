@@ -4,7 +4,7 @@ PHP decoder is an half-automated tool that de-obfuscates encoded/encrypted PHP s
 
 Usage
 ===================
-Upon execution a set of deocded files is generated, named as eval.X.php. X is an increasing number starting from "1".
+A set of decoded files is generated upon execution. Files are named in form of eval.X.php, where X is an increasing number starting from "1".
 
 <pre>
 %> ./sapi/cli/php encoded.php
