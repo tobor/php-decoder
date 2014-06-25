@@ -10,6 +10,6 @@ Upon execution a set of deocded files is generated, named as eval.X.php. X is an
 %> ./sapi/cli/php encoded.php
 </pre>
 
-One of the result files will be the clear text. Enjoy ;-P
+One of the result files will be the clear text. Enjoy ;-P (Well, garbage text expected)
 
 
