@@ -6,8 +6,9 @@ Usage
 ===================
 Upon execution a set of deocded files is generated, named as eval.X.php. X is an increasing number starting from "1".
 
-e.g 
+<pre>
 %> ./sapi/cli/php encoded.php
+</pre>
 
 One of the result files will be the clear text. Enjoy ;-P
 
